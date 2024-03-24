@@ -28,3 +28,5 @@ Information about the silent driver board upgrade for 3D printers MK2/MK2S/MK2.5
 > [!Caution]
 > Make sure to select the correct wattage rating for your DC-DC booster depending on how many motors used in your application.
 > Keep in mind the max current draw rating is 2 A per motor (NEMA 17HS16-2004S1 equivalent).
+
+![image](https://github.com/pdxtigre/prusa-mk2-silent-driver-board/assets/40930840/d71d7114-1c37-47b6-9e00-e7ed8b52427a)
