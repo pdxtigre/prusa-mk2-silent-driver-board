@@ -16,8 +16,15 @@ Information about the silent driver board upgrade for 3D printers MK2/MK2S/MK2.5
 * [TMC2209 Breakout Manual More](https://biqu.equipment/products/bigtreetech-tmc2209-stepper-motor-driver-for-3d-printer-board-vs-tmc2208)
 * [TMC2209 Datasheet Analog.com](https://www.analog.com/en/products/tmc2209.html)
 
-## TMC2209 Amazon
+## TMC2209/Booster Amazon
 * [BigTreeTech Driver](https://amzn.com/dp/B07YW7BM68)
 * [Teyleten Robot](https://amzn.com/dp/B09BK57KNY)
+* [24 VDC 3 A - 72 Watt Booster](https://www.amazon.com/dp/B07XBWHR56)
+* [24 VDC 10 A - 240 Watt Booster](https://www.amazon.com/dp/B081K7BX4)
 
+> [!Note]
+> Check the high level wiring block diagram in the [manuals](manuals/) folder.
 
+> [!Caution]
+> Make sure to select the correct wattage rating for your DC-DC booster depending on how many motors used in your application.
+> Keep in mind the max current draw rating is 2 A per motor (NEMA 17HS16-2004S1 equivalent).
